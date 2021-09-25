@@ -10,6 +10,7 @@ public class PrimeiroPrograma {
 		Livros livros = new Livros();
 		
 		System.out.println(gato);
+		System.out.println(livros);
 	
 	}
 
